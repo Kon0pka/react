@@ -1,0 +1,64 @@
+/* 
+body {
+    background: linear-gradient(-45deg, #64ffff, #3cff67, #ff7467, #4fac8b);
+    background-size: 300% 400%;    
+    animation: gradient 6s ease infinite;
+    height: 100vh;
+    font-family: 'Roboto', sans-serif;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+    
+}
+.app-container { 
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial;
+}
+
+button{
+    background-color: white;
+    border-radius: 3%;
+    display: table-row;
+        
+}
+
+.main{
+    align-items: center;
+    text-align: center;
+    background-color: white;    
+}
+
+
+
+ol {
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+
+}
+
+.my-div {
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
+
+.newComponent{
+    border-radius: 20px;
+    background-color: antiquewhite;
+    padding: 20px;
+    text-align: center;
+    
+}
+ */
